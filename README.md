@@ -1,6 +1,6 @@
-# Hey, I'm Jenny Yuan
+# Hey, I'm Jenny Yuan!
 
-I'm a Computer Science student at the University of Waterloo, currently seeking Summer 2027 software engineering internships.
+I'm a Computer Science student at the University of Waterloo, currently seeking Summer 2027 internships.
 
 I enjoy building software, playing sports, and trying new things.
 
